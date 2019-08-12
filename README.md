@@ -1,5 +1,6 @@
 # students-courses-app
 Live-edited CRUD table on VueJS with Vuetify UI and all data changes stored in localStorage
+[DEMO](https://yfedyai.github.io/CRUD-Table/#/)
 ### Realized features:
 - live search
 - sorting items
